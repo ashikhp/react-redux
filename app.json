@@ -1,11 +1,10 @@
 {
   "expo": {
-    "name": "redux_couter",
-    "slug": "redux_couter",
+    "name": "redux-counter",
+    "slug": "redux-counter",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
