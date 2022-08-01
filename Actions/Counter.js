@@ -1,4 +1,3 @@
-import ActionTypes from '../Actions'
 
 export const increaseCount = () => ({
 type:"INCREASE_COUNT"
